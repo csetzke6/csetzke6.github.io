@@ -9,7 +9,7 @@ links:
   - label: GitHub
     url: "https://github.com/csetzke6"
   - label: Email
-    url: "csetzke@uw.edu"
+    url: "mailto:csetzke@uw.edu"
 output:
   postcards::trestles
 ---
